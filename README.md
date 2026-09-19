@@ -1,20 +1,29 @@
 # Hi, I'm Simon Jaramillo
 
-Software Development & Network Engineering student based in Toronto, Canada.
+Software Development & Network Engineering student in Toronto, focused on back-end development and cloud engineering.
 
-## About me
+## Focus
 
-- Building practical web and back-end projects through hands-on coursework and personal learning.
-- Strengthening my skills in modern front-end development, Java applications, Spring Boot, and SQL.
-- Seeking co-op opportunities where I can contribute, learn quickly, and grow with a collaborative engineering team.
+- Building reliable server-side applications and data-driven features through hands-on coursework and personal learning.
+- Developing a strong foundation in Java, Spring Boot, SQL, application structure, and networking concepts.
+- Exploring how back-end services, data, infrastructure, and cloud platforms work together in practical systems.
+- Bringing front-end skills to the table when a project needs a complete, usable experience.
 
-## Technologies
+## Technical toolkit
 
-React · TypeScript · JavaScript · Java · Spring Boot · SQL · HTML · CSS · Git
+**Back end & data:** Java · Spring Boot · SQL
 
-## Portfolio focus
+**Cloud & systems:** Cloud fundamentals · Networking · Git
 
-I am organizing selected projects and a transparent learning archive that shows my progression from beginner exercises to larger web and back-end applications.
+**Front end:** React · TypeScript · JavaScript · HTML · CSS
+
+## Co-op direction
+
+I am seeking a co-op opportunity in back-end development, cloud engineering, platform engineering, or a role where I can grow into those areas while contributing to a collaborative team.
+
+## Portfolio
+
+I am curating selected back-end, web, and learning projects to show steady progress—from foundational exercises to larger applications that involve routing, state, data handling, and server-side development.
 
 ## Connect
 
