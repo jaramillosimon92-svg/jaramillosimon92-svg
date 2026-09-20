@@ -2,16 +2,6 @@
 
 Semester 3 student in Sheridan College's **Computer Systems Technology – Software Development & Network Engineering** advanced-diploma program, based in Toronto. I am focusing on back-end development and cloud engineering while maintaining practical front-end skills.
 
-## Current studies — Semester 3
-
-- Enterprise Java Development
-- AI and Machine Learning with Python
-- Computer and Network Security
-- Mobile Web-based Applications
-- Database Management
-- Fundamentals of Software Design
-- Co-operative Education Forum
-
 ## Foundation completed
 
 Through the first two semesters, I have built foundations in Python programming, object-oriented Java, web development and web programming, data communications and networking, cloud-enabled networks, relational database systems, and Linux operating systems.
