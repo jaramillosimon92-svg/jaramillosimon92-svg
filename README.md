@@ -1,21 +1,32 @@
 # Hi, I'm Simon Jaramillo
 
-Software Development & Network Engineering student in Toronto, focused on back-end development and cloud engineering.
+Semester 3 student in Sheridan College's **Computer Systems Technology – Software Development & Network Engineering** advanced-diploma program, based in Toronto. I am focusing on back-end development and cloud engineering while maintaining practical front-end skills.
 
-## Focus
+## Current studies — Semester 3
 
-- Building reliable server-side applications and data-driven features through hands-on coursework and personal learning.
-- Developing a strong foundation in Java, Spring Boot, SQL, application structure, and networking concepts.
-- Exploring how back-end services, data, infrastructure, and cloud platforms work together in practical systems.
-- Bringing front-end skills to the table when a project needs a complete, usable experience.
+- Enterprise Java Development
+- AI and Machine Learning with Python
+- Computer and Network Security
+- Mobile Web-based Applications
+- Database Management
+- Fundamentals of Software Design
+- Co-operative Education Forum
 
-## Technical toolkit
+## Foundation completed
 
-**Back end & data:** Java · Spring Boot · SQL
+Through the first two semesters, I have built foundations in Python programming, object-oriented Java, web development and web programming, data communications and networking, cloud-enabled networks, relational database systems, and Linux operating systems.
 
-**Cloud & systems:** Cloud fundamentals · Networking · Git
+## Technical direction
+
+**Back end & data:** Java · Python · Spring Boot · SQL · Database design · Enterprise application development
+
+**Cloud & systems:** Networking · Linux · Cloud-enabled networks · Security fundamentals · Git
 
 **Front end:** React · TypeScript · JavaScript · HTML · CSS
+
+## Program roadmap
+
+My upcoming curriculum includes .NET with C#, data structures and algorithms in C, Agile project management, systems development methodologies, capstone work, big-data storage management, and cloud architecting. Advanced Java frameworks and advanced .NET server-side technologies are program-option pathways I am especially interested in exploring.
 
 ## Co-op direction
 
@@ -23,7 +34,7 @@ I am seeking a co-op opportunity in back-end development, cloud engineering, pla
 
 ## Portfolio
 
-I am curating selected back-end, web, and learning projects to show steady progress—from foundational exercises to larger applications that involve routing, state, data handling, and server-side development.
+I am curating selected back-end, web, and learning projects to show steady progress—from foundational exercises to larger applications involving routing, state, data handling, and server-side development.
 
 ## Connect
 
